@@ -30,7 +30,6 @@ class MainActivity : ComponentActivity() {
 
 /**
  * Exercice 1: Créez une fonction composable principale appelée MainScreen.
- * Elle intègre la fonction WelcomeMessage.
  */
 @Composable
 fun MainScreen() {
